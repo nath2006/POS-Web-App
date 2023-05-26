@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="./preview-img/dashborad-kasir-chart.png">
+<img src="./preview-img/dashborad-kasir-chart.PNG">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## :hammer: Tech Stack 
 <p align="center">
-<img src="./preview-img/tech-stack.png">
+<img src="./preview-img/tech-stack.PNG">
 </p>
 
 ## :loudspeaker: Note
