@@ -17,9 +17,7 @@
 - npm package installer
 
 ## :hammer: Tech Stack 
-<p align="center">
 <img src="./preview-img/tech-stack.PNG">
-</p>
 
 ## :loudspeaker: Note
 The checkout and transaction history features are in development stage
