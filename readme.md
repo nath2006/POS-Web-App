@@ -21,5 +21,6 @@
 <img src="./preview-img/tech-stack.PNG">
 
 ## :loudspeaker: Note
-1. The checkout and transaction history features are in development stage
-2. This is my first fullstack program so feel free if you guys have any suggestions or criticisms. I really appreciate it
+1. The checkout and transaction history features are in development stage.
+2. Back Office system are in development stage.
+3. This is my first fullstack program so feel free if you guys have any suggestions or criticisms. I really appreciate it.
