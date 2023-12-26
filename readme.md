@@ -5,6 +5,10 @@
 
 <p align="center">
 <img src="./preview-img/dashborad-kasir-chart.PNG">
+</p>
+
+<p align="center"> 
+<img src="./preview-img/dashboard-history-transaction.PNG">
  <a href="https://github.com/nath2006"><img title="Author" src="https://img.shields.io/badge/Author-nath2006-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
