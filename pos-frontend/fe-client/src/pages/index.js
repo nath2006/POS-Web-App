@@ -9,9 +9,13 @@ export default function Home() {
   const [ products, setProducts] = useState([])
 
   const fetchProduct = async () => {
-    const response = await api.get('/products');
-    const data = await response.data.payload;
-    setProducts(data);
+    try {
+      const response = await api.get('/products');
+      const data = await response.data.payload;
+      setProducts(data);
+    } catch (err) {
+      throw Error(err)
+    }
   }
 
   useEffect(() => {
